@@ -1,0 +1,16 @@
+Transportador de glucosa
+== Función ==
+La glucosa es un sustrato esencial en el metabolismo de la mayoría de las células cuyo transporte a través de las membranas biológicas requiere, por la polaridad de la molécula, de proteínas transportadoras específicas. El transporte de la glucosa, así como de otros solutos, a través de la membrana celular puede dividirse en dos grandes tipos, el transporte activo y el transporte pasivo.
+
+Transporte activo
+El transporte de la glucosa a través de la membrana apical del intestino, en el plexo coroide (sitio en el encéfalo donde se reabsorbe el LCF), y en las células epiteliales de los tubulos renales, debe hacerse por medio de proteínas transportadoras.[1]​ En bacterias el sistema más extendido y eficiente de transporte de azúcares es el sistema fosfotransferasa (PTS) descrito por Kundig en 1964.[2]​
+
+Transporte pasivo
+La difusión facilitada de la glucosa a través de la membrana celular es catalizada por transportadores de glucosa GLUT o SLC2 (por sus siglas en inglés: Solute Carrier Family 2) que pertenecen a la superfamilia de transportadores facilitadores y que incluyen aniones inorgánicos y transportadores de cationes, el transportador de hexosas en levaduras, el cotransportador de hexosa/H+ en plantas y el cotransportador bacteriano de azúcar/H+.[3]​ El transporte de moléculas por parte de estas proteínas transportadores es un ejemplo de difusión facilitada y no requiere del ATP para el mecanismo de su transporte.
+
+Véase también
+GLUT2
+GLUT3
+
+
+== Referencias ==

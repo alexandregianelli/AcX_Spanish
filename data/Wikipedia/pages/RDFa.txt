@@ -1,0 +1,47 @@
+RDFa
+RDFa, del Inglés Resource Description Framework in Attributes,[1]​ es un conjunto de extensiones de XHTML propuestas por W3C para introducir semántica en los documentos. RDFa aprovecha atributos de los elementos meta y link de XHTML y los generaliza de forma que puedan ser utilizados en otros elementos. Además se ha definido una correspondencia simple que permite extraer tripletes RDF.
+
+Rudimentos
+RDFa es en esencia una generalización de los atributos de los elementos meta y link de XHTML. La a minúscula que se añade a las siglas RDF es precisamente la inicial de la palabra "atributos".
+Los atributos que se utilizan son
+
+typeof: indica de que tipo es la instancia descrita.
+about: una URI que indica el recurso que describen los metadatos y que remite al documento actual por defecto
+rel, rev, href y resource: atributos que establecen un relación o relación inversa con otro recurso
+property: aporta una propiedad para el contenido de un elemento
+content: atributo opcional que se sobrepone al contenido del elemento cuando se usa el atributo property
+datatype: atributo opcional que indica el tipo de datos del contenido
+
+Ventajas de RDFa
+Hay cinco principios de los metadatos interoperables que cumple RDFa [1].
+
+Independencia del editor: cada sede web puede usar sus propios estándares.
+Reutilización de datos: se debe tratar de no duplicar los datos; RDFa hace innecesario separar las secciones XML y HTML de los mismos contenidos.
+Autocontención: las secciones de XML y HTML pueden mantenerse separadas.
+Modularidad del esquema: Los atributos son reusables
+Escalabilidad: se pueden añadir campos adicionales con la única condición de que se mantenga la capacidad de extraer semántica de los datos del archivo XHTML.
+
+Ejemplo de RDFa
+Se muestra un ejemplo de metadatos de tipo Dublin core introducidos en el archivo HTML. Los elementos nucleares de DC se añaden a recursos normales, como libro, artículo, etc.: title, author, subject...
+
+Sin embargo, el auténtico potencial de RDFa se encuentra en la forma en que permite anotar el texto entrante con valores semánticos:
+
+Referencias
+Véase también
+RDF
+microformatos
+XHTML
+Web semántica
+
+Enlaces externos
+Traducción al Castellano de RDFa 1.1 Primer
+RDFa Lite
+XHTML+RDFa 1.1
+RDFa Use Cases: Scenarios for Embedding RDF in HTML
+RDFa Syntax
+RDFa Test Suite
+RDFa FAQ
+hGRDDL
+rdfa.info noticias sobre RDFa y páginas de ejemplo
+RDFa parsing service and code.
+PHP-based RDFa parsing service

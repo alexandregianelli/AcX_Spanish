@@ -1,0 +1,119 @@
+Tasa de error de modulación
+La tasa de error de modulación o, por sus siglas inglesas, MER (Modulation Error Rate) define un factor que nos informa de la exactitud de una constelación digital. Esta es una herramienta cuantitativa que permite valorar cómo es de buena una señal modulada digital. Es el equivalente a la información que aporta SNR (Relación señal/ruido), para las modulaciones analógicas. Al igual que esta puede ser expresado en dB o en tanto por cien.
+El cálculo de este factor en transmisión, lleva implícita la demodulación de la señal para la evaluación. En recepción, este parámetro se determina tras la demodulación propia de la recepción de los datos. En ambos casos, será necesario el uso de la constelación de transmisión normalizada como referencia.
+
+Definición
+La Tasa de Error de Modulación puede definirse, gráficamente, como la "dispersión" de puntos respecto al valor esperado.( Es la diferencia entre la señal que nos entra con respecto a la ideal, se expresa en db, cuanto más cercanos estén los puntos en la constelación mejor será la señal . La diferencia entre esos valores se aprecia observando la separación entre dos vectores: uno señalando a un punto ideal de la constelación (vector ideal), y el otro señalando desde un punto medido hacia el punto ideal (vector de error) Si usamos este resultado en el denominador en un cociente, con la magnitud de la señal promedio en el numerador, el resultado será la MER.
+Analíticamente, para el caso de los decibelios se puede hallar como:
+
+  
+    
+      
+        M
+        E
+        R
+        (
+        d
+        B
+        )
+        =
+        10
+        ⋅
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          (
+          
+            
+              
+                P
+                
+                  s
+                  i
+                  g
+                  n
+                  a
+                  l
+                
+              
+              
+                P
+                
+                  e
+                  r
+                  r
+                  o
+                  r
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle MER(dB)=10\cdot \log _{10}\left({P_{signal} \over P_{error}}\right)}
+  
+
+donde Perror es error cuadrático medio y Psignal es el valor cuadrático medio de la señal recibida.
+De forma análoga a lo expresando antes, para obtener el valor de la MER en porcentaje:
+
+  
+    
+      
+        M
+        E
+        R
+        (
+        %
+        )
+        =
+        
+          
+            
+              (
+              
+                
+                  
+                    P
+                    
+                      e
+                      r
+                      r
+                      o
+                      r
+                    
+                  
+                  
+                    P
+                    
+                      s
+                      i
+                      g
+                      n
+                      a
+                      l
+                    
+                  
+                
+              
+              )
+            
+          
+        
+        ∗
+        100
+        %
+      
+    
+    {\displaystyle MER(\%)={\sqrt {\left({P_{error} \over P_{signal}}\right)}}*100\%}
+  
+En una red en operación, el estándar DOCSIS requiere una tasa de bits en error (BER) de 10-8 después de la etapa de post-corrección de errores. Esto se traduce a no más de 1 error por cada 100 millones de bits de datos transmitidos. Para lograr esta BER, el respectivo MER requerido para ambos canales DOCSIS de 64 y 256-QAM descendentes (downstream)...(el texto está incompleto)
+
+Referencias
+ETSI technical report ETR 290: "Measurement guidelines for DVB systems", Errata 1, mayo de 1997

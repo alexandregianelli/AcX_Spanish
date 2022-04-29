@@ -1,0 +1,35 @@
+Active Server Pages
+Active Server Pages (ASP),[3]​ también conocido como ASP clásico, es una tecnología de Microsoft del lado del servidor para páginas web generadas dinámicamente, que ha sido comercializada como un anexo a Internet Information Services (IIS). 
+Lo interesante de este modelo tecnológico es poder utilizar diversos componentes ya desarrollados como algunos controles ActiveX así como componentes del lado del servidor, tales como CDONTS, por ejemplo, envío de correo utilizando CDONTS que permite la interacción de los scripts con el servidor SMTP que integra IIS.
+Está limitada (la tecnología ASP) a funcionar solo en Microsoft Windows,[4]​ pues requiere el servidor IIS (existen alternativas como mod-mono para Apache que nos permite utilizar esta tecnología en otros sistemas operativos); aunque en las versiones "9x" de Microsoft Windows era posible instalar Microsoft Personal Web Server (PWS) y de esa manera usar asp.[5]​ También puede instalarse en software de terceros como por ejemplo Baby Web Server. 
+Por lo que su uso es cuestionado por la mayoría de los programadores web, quienes prefieren otros lenguajes de programación del lado del servidor como por ejemplo PHP, Perl, Java,[4]​ etc.
+
+Versiones
+Ha pasado por cuatro versiones mayores:
+
+ASP 1.0 (distribuido con IIS 3.0)
+ASP 2.0 (distribuido con IIS 4.0)
+ASP 3.0 (distribuido con IIS 5.0)
+ASP.NET (parte de la plataforma .NET de Microsoft).Las versiones pre-.NET se denominan actualmente (desde 2002) como ASP clásico.
+En el último ASP clásico, ASP 3.0, hay siete objetos integrados disponibles para el programador: Application, ASPError, Request, Response, Server, Session y ObjectContext.
+Desde 2002, el ASP clásico está siendo reemplazado por ASP.NET, que entre otras cosas, reemplaza los lenguajes interpretados como VBScript o JScript por lenguajes compilados a código intermedio (llamado MSIL o Microsoft Intermediate Language) como Visual Basic .NET, C#, o cualquier otro lenguaje que soporte la plataforma .NET. El código MSIL se compila con posterioridad a código nativo.
+
+Ejemplo
+Las páginas pueden ser generadas mezclando código de scripts del lado del servidor (incluyendo acceso a base de datos) con HTML.
+Ejemplo1 (Hola Mundo):
+
+Este código muestra en pantalla la frase: Hola Mundo
+Ejemplo2:
+
+Este código trae como resultado en HTML el valor de un registro de una base de datos; cuando ValorX es igual a ValorY se nos muestra el número total de registros de una base de datos (previa implementación de los correspondientes recordsets).
+
+Referencias
+Véase también
+Página web
+JSP
+PHP
+Aplicación web
+ASP.NET
+
+Enlaces externos
+ Wikilibros alberga un libro o manual sobre ASP.

@@ -1,0 +1,89 @@
+Single Unix Specification
+Single Unix Specification (Especificación Única de Unix), es el nombre colectivo de una familia de estándares para sistemas operativos que establecen los requisitos para que un sistema pueda proclamarse Unix.
+Las SUS están desarrolladas y son mantenidas por el Austin Group, basado en el anterior trabajo del IEEE y The Open Group (anteriormente X/Open).
+
+Historia
+Década de 1980: Motivación
+Las SUS emergieron como un proyecto de mediados de los 80 para estandarizar las interfaces para sistemas operativos para el software diseñado para variantes del sistema operativo Unix.
+Las diferentes corporaciones que utilizaban computadores en el momento querían ser capaces de desarrollar programas que pudiesen ser usados en los equipos de diferentes proveedores sin tener que reimplementar los programas.
+Unix fue seleccionado como base para la interfaz básica del sistema, en parte porque era neutral respecto al proveedor.
+
+1988: POSIX
+En 1988, estos estándares se convirtieron en el IEEE 1003 (también registrado como ISO/IEC 9945), o POSIX, acrónimo de Portable Operating System Interface for uniX (Interfaz Portable de Sistema Operativo para Unix).
+
+Década de 1990: Spec 1170
+A principios de los 90, varios proveedores de máquinas iniciaron un comité conocido como la Common API Specification, o Spec 1170, que formó la alianza Common Open Source Environment en los comienzos de las Guerras Unix. Esta especificación se volvió muy popular porque estaba disponible a coste cero, mientras que el IEEE carga una suma sustancial por acceder a la especificación POSIX.
+
+1997: Single UNIX Specification versión 2
+En 1997, el Open Group liberó la Single UNIX Specification Version 2.
+Esta especificación consistía de:
+
+Las definiciones base, 5.ª edición,
+Las cabeceras e interfaces del Sistema, 5.ª edición,
+Los comandos y utilidades, 5.ª edición,
+Los servicios de red, 5.ª edición,
+Los X/Open curses, 4ª edición, versión 2,Siendo así la base de la marca UNIX 98.
+
+2001: POSIX:2001, Single UNIX Specification versión 3
+Comenzando en 1998, un grupo de trabajo conjunto conocido como el Austin Group comenzó a desarrollar el estándar combinado que sería conocido como la Single UNIX Specification Version 3, y también como POSIX:2001 (formalmente, IEEE Std. 1003.1-2001). Fue liberado el 30 de enero de 2002.
+Este estándar consistió de:
+
+Las Definiciones Base, 6.ª edición,
+Las cabeceras e interfaces del sistema, 6.ª edición,
+Los comandos y utilidades, 6.ª edición.y es la base de la marca UNIX 03.
+
+2004: POSIX:2004
+En 2004, se liberó una nueva edición del estándar POSIX:2001, incorporando dos corrigendum técnicos. Esta fue llamada POSIX:2004 (formalmente: IEEE Std. 1003.1-2004).
+
+2008: POSIX:2008
+En diciembre de 2008, el Austin Group publicó una revisión mayor, conocida como POSIX:2008 (formalmente: IEEE Std. 1003.1-2008). Esta es la base de la Single UNIX Specification, Versión 4.
+El estándar consiste de:
+
+Las definiciones base, 7.ª edición,
+Las cabeceras e interfaces del sistema, 7.ª edición,
+Los comandos y utilidades, 7.ª edición.
+
+Especificación
+El SUSv3 tiene unas 3700 páginas, que están temáticamente divididas en cuatro grandes grupos:
+
+Base Definitions (XBD) - una lista de definiciones y convenciones usadas en las especificaciones, y una lista de ficheros cabecera en Lenguaje C que deben ser proporcionados por los sistemas compatibles. El estándar detalla 84 ficheros cabecera.
+Shell and Utilities (XCU) - una lista de utilidades y una descripción de la shell, sh. Se especifican en total 160 utilidades.
+System Interfaces (XSH) - contiene la especificación de varias funciones que serán implementadas como llamadas al sistema o funciones de bibliotecas. Se especifican en total 1123 interfaces al sistema.
+Rationale (XRAT) - la explicación tras el estándar.La interfaz de scripting y la línea de comandos estándar al usuario es la shell POSIX, una extensión de la Bourne Shell basada en una versión muy temprana de la Korn Shell.
+Otros programas a nivel del usuario, servicios y utilidades incluyen awk, echo, ed, vi, y cientos de otros.
+Servicios requeridos a nivel de programa incluyen entrada/salida básica (mediante ficheros, terminal y red).
+Existe una suite de pruebas junto al estándar para comprobar la adherencia de un sistema a él. Esta se llama PCTS o POSIX Certification Test Suite
+Además, SUS incluye la especificación CURSES (XCURSES), que especifica 372 funciones en 3 ficheros cabecera. Sumado todo, SUSv3 especifica 1742 interfaces.
+
+Sistemas UNIX Registrados
+UNIX 03
+Los sistemas registrados como UNIX 03 (SUS 3) son:
+
+Apple Inc. macOS 10.12 (Sierra) y macOS 10.13 (High Sierra). Apple registra su sistema operativo OS X/macOS de forma anual en esta especificación.
+HP-UX 11i V3 Release B.11.31 y posteriores.
+IBM AIX versión 7 siendo válida la certificación para AIX 7.1 TL5 o posterior, o bien AIX 7.2 TL2 o posterior. Se mantiene el registro de AIX 6 versión 6.1.2 SP1 o posterior y de AIX 5L en la versión 5.3.
+Sun (y Fujitsu) Solaris 10, versiones de 32 y 64 bits para SPARC y para Intel x86.
+Inspur Co., Ltd Inspur K-UX 2.0 e Inspur K-UX 3.0, Distribución de Linux china basada en Red Hat, es la primera distribución de Linux que obtiene la certificación UNIX 03.
+Huawei EulerOS distribución basada en CentOS, es certificada con UNIX 03 a partir de su versión 2.0.
+
+UNIX 98
+Sistemas registrados UNIX 98 (SUS 2):
+
+HP Tru64 V5.1
+IBM AIX 5L V5.2
+Sun Solaris 8 y 9
+
+UNIX 95 y 93
+Versiones anteriores de certificación (UNIX 93 y UNIX 95) incluyen:
+
+HP-UX desde 11.00 hasta 11i V2
+IBM z/OS V1R2 (está previsto que la versión 1.9 sea certificada UNIX 03)
+NCR UNIX SVR4
+NEC UX/4800
+SCO UnixWare 7.1.3 y SCO OpenServer 5
+SGI IRIX 6.5.28Otros sistemas de código abierto tipo UNIX no han sido certificados; es el caso de BSD, GNU/Linux o Minix.
+
+Enlaces externos
+The Single UNIX Specification
+Texto oficial de Single UNIX Specification, Versión 3
+Productos certificados UNIX por The Open Group

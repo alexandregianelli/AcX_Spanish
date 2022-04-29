@@ -1,0 +1,54 @@
+Instituto Nacional de Investigación Espacial del Brasil
+El Instituto Nacional de Investigaciones Espaciales del Brasil (portugués:Instituto Nacional de Pesquisas Espaciais, INPE) es el órgano civil especializado en la investigación espacial, fue creado en 1961. El instituto cuenta con instalaciones en diez ciudades: São Paulo, Brasilia, Atibaia, Cachoeira Paulista, Cuiabá, Eusébio, Natal, Santa Maria, São Martinho da Serra y São Luís; su sede está en Sao Jose dos Campos, São Paulo .
+Conforme las políticas definidas y actualizadas por el Ministerio de Ciencia y Tecnología brasileño, la misión del INPE es la promoción y ejecución de estudios e investigaciones científicas, el desarrollo tecnológico, la ejecución de actividades operacionales y la capacitación de recursos humanos en los campos de la ciencia espacial y de la atmósfera, de la observación de la Tierra, del pronóstico del tiempo y de los estudios climáticos, de la ingeniería y tecnología espacial y áreas relacionadas.
+Durante la década de 1970, el Instituto desarrolló diversas investigaciones que fueron pioneras en meteorología (Proyecto MESA para recepción e interpretación de datos de satélites meteorológicos), comunicaciones (Proyecto SACI para comunicaciones de programa de educación a distancia) y observación de la Tierra por satélite (Proyecto SERE de identificación de recursos terrestres a través de lecturas de dados).
+
+Historia
+El INPE nació del deseo de algunos brasileños para que el país tome parte en la conquista del espacio en los años 50. Brasil comenzó este camino, al mismo tiempo en que las naciones desarrolladas lanzaban los primeros satélites artificiales desde la Tierra.
+El 3 de agosto de 1961, el Presidente de la República, Jânio Quadros, firmó un decreto de creación del Grupo de Organización de la Comisión Nacional de Actividades Espaciales (GOCNAE), dependiente del Consejo Nacional de Investigaciones (CNPq), que fue el embrión del actual INPE.
+La CNAE, se conoció como la institución que más tarde dio lugar a la INPE, inició sus actividades con tareas que incluyen la coordinación, fomento y apoyo a la labor y los estudios relacionados con el espacio, la formación de un núcleo de investigadores cualificados para desarrollar proyectos de exploración espacial y establecer la cooperación con naciones más avanzadas.
+Al principio, el programa de investigación realizado en los laboratorios de la CNEA, instalado en São José dos Campos, Sao Paulo, donde está hoy la sede del INPE, estaba íntimamente relacionada con los estudios en materia de ciencias espaciales y atmosféricas. Estos estudios incluyeron sondas en la alta atmósfera realizadas a través de ionosondas instaladas en el suelo, y principalmente por medio de cargas útiles científicas llevadas a bordo de cohetes lanzados desde la base de la Barreira do Inferno, Natal, Rio Grande do Norte.
+El 22 de abril de 1971, mediante la extinción de GOCNAE, fue creada oficialmente, el INPE, que subordinado directamente al CNPq. El decreto de creación del INPE define al Instituto como el principal organismo de ejecución para el desarrollo de la investigación espacial civil bajo la dirección de la Comisión Brasileña de Actividades Espaciales (COBAE), un órgano asesor de la Presidencia.
+Con el tiempo, la utilización de satélites meteorológicos, de comunicaciones y observación de la Tierra, fue apareciendo como una actividad muy cercana a las necesidades reales de Brasil. Con esto, los fueron implantados los proyectos MESA, para la recepción e interpretación de imágenes de satélites meteorológicos, SERE, para utilización de las técnicas de teleobservación por satélites y aeronaves para estudiar los recursos terrestres, y SACI para la aplicación de un satélite de comunicaciones geoestacionario para ampliar el sistema educativo del país. A mediados de los años 70, estos fueron los principales proyectos realizados por el INPE.
+En los últimos años 70, el INPE ingresó en una nueva fase en su historia, con la aprobación por el Gobierno Federal de la Misión Espacial Completa (MECB); el Instituto priorizó a su propósito original, la investigación y las aplicaciones, el consiguiente desarrollo de la tecnología espacial. La experiencia adquirida durante dos décadas, el uso de satélites extranjeros, mostraron que un país con las dimensiones continentales de Brasil, con inmensas áreas poco conocidas y prácticamente deshabitadas, no podía prescindir del desarrollo de la tecnología espacial propia, alrededor de su realidad que llevara a la integración y el conocimiento de su territorio.
+El 15 de marzo de 1985 se creó el Ministerio de Ciencia y Tecnología (MCT), a través del INPE para integrarlo como un órgano autónomo de la administración directa, dándole mayor autonomía financiera y administrativa.
+Durante los años 80, el INPE comenzó a desarrollar programas que ahora son de prioridad como: la Misión Espacial Completa Brasileña (MECB), el Satélite Sino-Brasileiro de Recursos Terrestres (CBERS), Programa de Amazónico (AMZ) y el Centro de Previsión del Tiempo y Estudios Climáticos (CPTEC). Además, se mantuvo atento al desarrollo de otros países en el área espacial, de modo que se siguió trabajando en el intercambio y la cooperación entre el INPE y otras instituciones similares internacionales. Durante este período, también estableció su Laboratorio de Integración y Pruebas (LIT), el único del hemisferio sur que desarrolla actividades altamente especializadas y fundamentales para el éxito del Programa Espacial Brasileño.
+En 1989 se creó la Secretaría Especial de Ciencia y Tecnología (SCT), órgano vinculado a la Presidencia de la República, al que se transfirieron los asuntos de la jurisdicción del extinto MCT, ocasión en que el INPE, a condición de STC, perdió su autonomía administrativa y financiera.
+El 17 de octubre de 1990, fue aprobado por la Estructura de Régimen del SCT, pasando el INPE a integrarse en calidad de órgano singular, como también a ser llamado el «Instituto Nacional» para la Investigación Espacial, único en el ámbito nacional.
+En 1992, los nuevos cambios realizados hicieron recuperar el estado del ministerio a la zona de S&T. El 19 de noviembre, se extingue SCT y resurge el MCT, por lo que el INPE vuelve a estar vinculado con órgano específico singular.
+Los años 90 está marcado por los primeros resultados de MECB. En 1993, se coloca en órbita el primer satélite brasileño, el SCD-1, lo que demuestra la capacidad de Brasil en el desarrollo y explotación de sistemas espaciales. En 1998, el SCD-2 también fue lanzado con éxito, operando, incluso mejor que el primero, debido a las innovaciones tecnológicas. El CBERS-1, satélite Chino-brasileño de recursos terrestres, resultado de la cooperación entre los gobiernos de China y Brasil fue lanzado por el cohete chino Longa Marcha - 4 en la base de Taiyuan, el 14 de octubre de 1999. El reconocimiento de tecnología espacial y también de aplicaciones, se refleja en la participación de la Agencia Espacial Brasileña en la construcción de la (Estación Espacial Internacional - ISS), el sector más grande de la empresa en el mundo, que reúne a 16 países. La participación del INPE de Brasil en el ISS proporciona la oportunidad de realizar experimentos tecnológicos en diversos campos de la ciencia.
+En agosto de 2019, el jefe de la agencia, Ricardo Galvão, fue despedido por el ministro de ciencia Marcos Pontes después de un período en el que Galvão tuvo una discusión pública con el presidente brasileño Jair Bolsonaro sobre la validez de los datos de DETER, un sistema de satélite que monitorea la deforestación. Bolsonaro declaró que los datos habían sido alterados para atacar a su gobierno y Galvão lo llamó cobarde en respuesta.
+[1]​
+
+Unidades
+Laboratorio de Integración y de Pruebas- se llevan a cabo asambleas y las pruebas funcionales de los satélites.
+Centro de Pronóstico del Tiempo y Estudios Climáticos - Uno de los centros que actualmente está cobrando importancia no solo por su contribución al lanzamiento de satélites en cuestiones relacionadas con el medio ambiente es el CPTEC. Este centro también colaborará con el clima y otras condiciones en el momento del lanzamiento de un satélite, que es un momento crucial de la misión, también proporciona las previsiones para la sociedad en general.
+Centro de Tecnologías Especiales
+Laboratorio de Computación y Matemática Aplicada (ALC)
+Laboratorio Asociado de Sensores y Materiales (LAS)
+Laboratorio Asociado de Plasma(LAP)
+Laboratorio Asociado de Combustión y Propulsión(LCP)
+
+Graduado
+Máster y doctorado en las siguientes áreas:
+
+Astrofísica (AST)
+Ingeniería y Tecnología Espacial (ETE)
+Geofísica Espacial (GES)
+Informática Aplicada (PAC)
+Meteorología (MET)
+Percepción Remota (SERE)
+
+Referencias
+Véase también
+Agencia Espacial Brasileña
+Satélites Brasileños
+Centro de Lanzamiento de Alcântara - (CLA)
+Centro de Lanzamiento de Barrera del Infierno - (CLBI)
+Sonda (cohete) - Família de cohetes brasileros
+VS-30 - Cohetes brasileros
+
+Enlaces externos
+Instituto Nacional de Pesquisas Espaciais - INPE (en portugués)
+Laboratório de Integração e Testes (en portugués)
+Centro de Previsão de Tempo e Estudos Climáticos (en portugués)

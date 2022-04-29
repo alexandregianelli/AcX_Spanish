@@ -1,0 +1,51 @@
+Compañía de Transmisiones de Puesto de Mando Fijo
+La misión principal del CTPCF proporcionará al Mando y a su Cuartel General, las capacidades de mando, control, telecomunicaciones e información (C3I) necesarias para dirigir y controlar las operaciones que se le asignen.
+La Compañía de Puestos de Mando Fijo (CTPCF) es una Unidad integrante del Batallón de Transmisiones de la UME (BTUME). El cual pertenece a la Unidad Militar de Emergencias.
+El mando lo ejerce un Capitán del Ejército de Tierra, Cuerpo General, Escala de Oficiales, preferentemente de la Especialidad Fundamental Transmisiones.
+
+Estructura orgánica
+La Cía. CTPCF se compone de:
+
+Sección de Centro de Comunicaciones (CECOM).
+Sección de Centro de Asistencia al Usuario (CAU).
+Sección de Servicios CIS.
+Centro de Control de Sistemas (CONSIS).
+
+Cometidos
+Sección de Centro de Comunicaciones (CECOM).
+Gestionar el sistema de mensajería oficial (MESINCET, SIMENDEF) en el entorno de la UME.
+Establecer, de acuerdo a normas particulares, un Servicio H24 que asegure la continuidad de los CIS de la UME en un régimen 24/7.
+Gestión, supervisión y control de los circuitos y líneas del CCIS UME como RCT-176 del STM. 
+Establecer el Centro de Mensajería Oficial del CG UME (CEMEN) para sistemas CLASIFICADOS Y SINCLAS. 
+Realizar trabajos de tendido, mantenimiento y reparación de líneas a través del Pelotón de Líneas.
+Supervisar las diferentes Redes en las que se integra la UME (CSN, Presidencia, etc.).
+Sección de Centro de Asistencia al Usuario (CAU).
+Proporcionar un servicio de atención de incidencias a usuarios (I-CIS/Helpdesk) para el CG UME, BTUME y UCG según Norma General de Atención al Usuario.
+Responsable del despliegue de material del PMF para operaciones y/o ejercicios.
+Sección de Servicios CIS.
+Realizar la administración de los dominios RENEM, MDEF y sistema SIMGE a nivel usuario. 
+Operar y mantener la arquitectura y, en su caso, resolver las incidencias de networking, telefonía IP, enrutamiento y conexionado lógico de la RETUME.
+Gestionar la seguridad de la Red UME.
+Implementar, en su caso, las nuevas infraestructuras CIS que se determinen.
+Gestionar el ancho de banda de la red satélite SPAINSAT a disposición de la UME, así como de la red satélite de banda ancha (BGAN INMARSAT), de acuerdo a las directrices del CONSIS.
+Gestionar la red SIRDEE de la UME.
+Gestionar las frecuencias radio VHF Y HF (civil y militar) asignadas a la UME.
+Gestionar el servicio de videoconferencia del CG UME. 
+Instalar, operar y mantener el servicio de megafonía.
+Gestionar los servicios de IPTV y grabación de llamadas de voz.
+Operar y mantener los sistemas audiovisuales del CG UME.
+Centro de Control de Sistema (CONSIS).
+Gestión y control de las Operaciones de Red de la RETUME.
+Monitorizar la red y servicios de la UME a través de las herramientas de gestión implantadas.
+Gestión de incidencias y novedades de la RETUME.
+Proponer mejoras a J& del CG. en la RETUME de acuerdo al análisis de los eventos identificados.
+Gestión de la intervención de las áreas técnicas del CCIS, para resolución de las incidencias que se presenten en la operación de la RETUME.
+Asesorar a JEBTUME en todo lo relativo al funcionamiento, operación, eventos, incidencias y propuestas de mejora de la RETUME.
+Conformar el elemento de Telecomunicaciones e Información del CISCC, cuando se constituya.
+
+Ubicación
+La Compañía CTPCF se encuentra situada en la Base Aérea de Torrejón de Ardoz (Madrid)
+
+Sistemas de Telecomunicaciones
+Véase también
+Batallón de Transmisiones de la Unidad Militar de Emergencias
