@@ -1,0 +1,60 @@
+Huella dactilar
+Una huella dactilar, dermatoglifo o dactilograma (del griego δάκτυλος "dedo" y γράμμα "dibujo") es la impresión visible o moldeada que produce el contacto de las crestas papilares de un dedo de la mano (generalmente se usan el dedo pulgar o el dedo índice) sobre una superficie. La primera técnica de identificación de personas mediante estas fue inventada por el francés Alphonse Bertillon, y luego mejorada y puesta por primera vez en práctica por el nacionalizado argentino Juan Vucetich.[1]​ 
+Es una característica individual que se utiliza como medio de identificación de las personas (ver biometría). Se clasifican por sus características en: 
+
+Visibles o Positivas: Son las que dejan los dedos al estar impregnados de algún colorante, este material puede ser sangre, tinta, polvo o cualquier otra sustancia con la que puedan quedar marcadas las crestas papilares y puedan ser observadas a simple vista.Moldeadas: Son las que aparecen impresas en forma de molde, estas se marcan en materia plástica, como la grasa, jabón, plastilina, etc.Naturales: Aparecen de forma natural en los pulpejos de ambas manos, desde los seis meses de vida intrauterina hasta la muerte e incluso en el proceso de putrefacción.Artificiales: Son aquellas que se encuentran plasmadas en forma intencional con alguna sustancia, esencialmente con tinta para su estudio.La disciplina científica que estudia las huellas dactilares se llama dactiloscopía, y dentro de ella existen dos grandes ramas con su propia clasificación de huellas.
+
+Dibujos papilares
+Los dibujos papilares incluyen las papilas y los surcos interpapilares. Las crestas papilares son relieves epidérmicos situados en las palmas de las manos y en las plantas de los pies. Los surcos interpapilares se determinan por las crestas papilares.
+
+Propiedades
+Está demostrado científicamente que los dibujos que aparecen visibles en la Epidermis son perennes, inmutables, diversiformes y originales:
+
+Son perennes porque, desde que se forman en el sexto mes de la vida intrauterina, permanecen indefectiblemente invariables en número, situación, forma y dirección hasta que la putrefacción del cadáver destruye la piel.
+Son inmutables, ya que las crestas papilares no pueden modificarse fisiológicamente; si hay un traumatismo poco profundo, se regeneran, y si es profundo, las crestas no reaparecen con forma distinta a la que tenían, sino que la parte afectada por el traumatismo resulta invadida por un dibujo cicatrizal.
+Son diversiformes, pues no se ha hallado todavía dos impresiones idénticas producidas por dedos diferentes.
+Son originales, ya que todo contacto directo de los lofogramas naturales producen impresiones originales con características microscópicas identificables del tejido epidérmico. Se puede establecer si fueron plasmadas de manera directa por la persona o si trata de un lofograma artificial.
+
+Crestas papilares
+Las crestas papilares son glándulas de secreción de sudor, situadas en la dermis, llamadas glándulas sudoríparas. Constan de un tubo situado en el tejido celular subcutáneo, formado por un glomérulo glandular con un canal rectilíneo, que atraviesa la dermis, y termina en la capa córnea de la epidermis, concretamente en el poro, que es un orificio situado en los lomos de las crestas papilares.
+Una vez el sudor sale, se derrama por todas las crestas y se mezcla con la grasa natural de la piel; lo que da lugar a que, cuando se toque o manipule un objeto apto para la retención de huellas, las crestas dejen una impresión en él.
+
+Impresión dactilar
+La impresión dactilar es la reproducción hecha a propósito sobre la cartulina o en papel de dactilograma natural (dibujo papilar), impregnado en tinta, generalmente tipográfica.
+
+Captura en vivo
+Suele llamarse captura en vivo a la adquisición de la imagen del dactilograma natural mediante lectores electrónicos especializados. Este tipo de adquisición no requiere usar tinta y suele permitir que se realice un control de calidad automático.
+
+Puntos característicos
+Se designa con ese nombre a las particularidades papilares que, en detalle, ofrecen las crestas en su curso por el dactilograma natural y su impresión. Es decir, son las convergencias, desviaciones, empalmes, interrupciones, fragmentos, etcétera, de las crestas y de sus surcos (islote, bifurcación, punto, cortada, horquilla, empalme, encierro).
+Cuando se cotejan dos huellas dactilares, una dubitada y la otra indubitada, en España se buscan como mínimo 12 puntos característicos, aunque la obtención de al menos ocho ya tiene validez jurídica.
+Los dibujos o figuras formadas por las crestas papilares reciben el nombre de dactilogramas palabra que deriva de los vocablos griegos; daktylos (dedos) y grammas (escrito). Se denominan dactilogramas papilares si provienen de los dedos de la mano, plantares si provienen de la planta del pie y palmares cuando provienen de la palma de la mano. Los dactilogramas se pueden clasificar de tres formas:
+
+Dactilograma natural: es el que está en la yema del dedo, formado por las crestas papilares de forma natural.Dactilograma artificial: es el dibujo que aparece como resultado al entintar un dactilograma natural e imprimirlo en una zona idónea.Dactilograma latente: es la huella dejada por cualquier dactilograma natural al tocar un objeto o superficie. Este dactilograma queda marcado, pero es invisible. Para su revelación requiere la aplicación de un reactivo adecuado.De igual forma un dactilograma se puede dividir en tres partes que se conocen como: sistemas dactilares los cuales son el Sistema basilar, el Sistema marginal y el Sistema nuclear.
+
+Normas técnicas
+Existen normas técnicas relacionadas con la adquisición, la compresión, el intercambio y la representación de las huellas dactilares.
+
+CJIS-RS-0010 Appendix F
+Norma creada en de los Estados Unidos por la FBI que define las características técnicas que deben cumplir los escáneres de captura de huellas dactilares (escáneres de papel y los de captura en vivo) y las impresoras de huellas dactilares para asegurar que las imágenes obtenidas cumplan con criterios de calidad mínimos para ser usadas en procesos forenses manuales o automatizados de verificación o identificación dactilar. Actualmente, esta norma se encuentra en su versión 7, actualizada en 1999.
+
+IAFIS-IC-0110
+Estándar creado por el FBI que define el formato para la compresión de imágenes de huellas dactilares conocido como WSQ. Permite alcanzar niveles de compresión típicos de 15:1, manteniendo los detalles relevantes de la huella dactilar como las minucias y poros. Actualmente, esta norma se encuentra en la versión 3, actualizada en 1997.
+
+La identificación de personas por sus huellas dactilares
+En las antiguas Babilonia y Persia se usaban las impresiones dactilares para autenticar registros en arcilla, pues ya se conocía su carácter único.
+En 1883, el francés Alphonse Bertillon propuso un método de identificación de personas basado en el registro de las medidas de diversas partes del cuerpo. Su método, adoptado por las policías de Francia y otras partes del mundo, tuvo un estrepitoso fracaso cuando se encontraron dos personas diferentes que tenían el mismo conjunto de medidas.
+El uso de los relieves dactilares fue por primera vez objeto de un estudio científico por el antropólogo inglés Francis Galton (1822-1911), quien publicó sus resultados en el libro Huellas dactilares (1892). Los mismos verificaron tanto la invariabilidad de las huellas dactilares a lo largo de toda la vida de un individuo como su carácter distintivo aun para gemelos idénticos. Los estudios de Galton estuvieron orientados a la determinación de las características raciales hereditarias de las personas (sobre las que las huellas dactilares no podían dar información) y determinó algunas características de las huellas que todavía se usan hoy en día para su clasificación. Con base en ello, Galton propuso usarlas para la identificación personal en reemplazo del inexacto sistema Bertillon, entonces en uso.
+Los cuarenta rasgos propuestos por Galton para la clasificación de las impresiones dactilares fueron analizados y mejorados por el investigador de la policía de la provincia de Buenos Aires Juan Vucetich, a quien el jefe de policía, Guillermo Núñez, le había encomendado sentar las bases de una identificación personal confiable.
+Vucetich determinó, inicialmente, ciento un rasgos de las huellas para clasificarlas en cuatro grandes grupos. Logró luego simplificar el método basándolo en cuatro rasgos principales: arcos, presillas internas, presillas externas y verticilos. A partir de sus métodos, la policía bonaerense inició en 1891, por primera vez en el mundo, el registro dactiloscópico de las personas. En el año 1892, hizo por primera vez la identificación de una asesina, con base en las huellas dejadas por sus dedos ensangrentados (en particular por su pulgar derecho) en la escena del crimen de sus dos hijos, en la ciudad de Necochea (provincia de Buenos Aires).[2]​ La mujer, de nombre Francisca Rojas de Caraballo, había acusado de los asesinatos a su vecino.
+El método lo describe Vucetich detalladamente en sus escritos Instrucciones generales para el sistema antropométrico e impresiones dactilares, Idea de la identificación antropométrica (1894) y Dactiloscopía comparada, presentado en el segundo Congreso Médico de Buenos Aires (1904). El último trabajo recibió premios y distinciones en todo el mundo y fue traducido a los principales idiomas. Luego de más de un siglo de su implantación —aunque han variado sustancialmente los métodos de relevamiento, archivo y comparación—, la identificación de huellas dactilares todavía se basa en los cuatro rasgos finalmente elegidos por Vucetich.
+Hoy en día se utiliza la huella dactilar para el control de acceso y presencia de personas en empresas y administraciones gracias a sus características únicas que impiden la suplantación de identidad. El reloj de fichar o el lector de huella digital funciona con huella dactilar o reconocimiento facial de los empleados lo cual evita que una persona se haga pasar por otra como podía producirse con las antiguas tarjetas de cartón.
+
+Identificación individual a través de las bacterias dactilares
+El 15 de marzo de 2010 vio la luz un artículo científico que informa el descubrimiento de que las comunidades de bacterias que alberga la piel son diferentes en cada individuo, es decir, se propone el uso del análisis de las bacterias de las huellas dactilares de un individuo para fines de identificación forense. El texto, que se intitula "Forensic identification using skin bacterial communities" ("Identificación forense a través de las comunidades bacterianas de la piel", aún no traducido al español), firmado por los doctores Noah Fierer (director del proyecto de investigación), Christian L. Lauber, Nick Zhou, Daniel McDonald, Elizabeth K. Costello y Rob Knight (de la Universidad de Colorado, en Boulder, y del Instituto Médico Howard Hughes), se publicó en el número del 1 de marzo de 2010 de la revista Proceedings of the National Academy of Sciences of the United States (PNAS).[3]​
+
+Véase también
+Lofoscopia
+
+
+== Referencias ==

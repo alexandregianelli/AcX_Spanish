@@ -1,0 +1,76 @@
+Here are various acronym expansions in clinical articles
+
+1. Evidence suggests that, compared with those who are not admitted to hospital, hospitalised older adults are significantly more likely to develop some disability in terms of activities of daily living (ADLs). 
+
+At Nottingham University Hospital (NUH) we will soon be capturing loss of ADLs via incident reporting and new electronic nursing documentation.
+
+2. Nuclear Magnetic Resonance Imaging (NMRI) is also known as spinning imaging and Magnetic Resonance Imaging (MRI). 
+
+The majority of body tissues can be examined using MRI, which is especially clear and delicate when imaging soft tissue
+
+3. Welcome to the May 2018 Issue of the Clinical Journal of Sport Medicine.  
+
+We at CJSM are proud of our reputation as a Sports Medicine Journal
+
+(No direct expansion of the acronym) 
+
+4. The mean age was 35.2 years [range, 20-56 years; standard deviation (SD): 7.7],
+
+Descriptive statistical data (mean, SD, minimum and maximum numbers and percentages) were calculated with the obtained findings. 
+
+ A SMART study in plastic surgery
+
+To our knowledge, the very first example of the utility of a Sequential Multiple Assignment Randomized Trial in plastic surgery.
+
+(The acronym is only used in the title)
+
+6. ADAMON is a prospective, stratified, cluster-randomised, controlled study comparing extensive on-site monitoring with risk-adapted monitoring according to a previously published approach.
+
+The Risk ADApted MONitoring (ADAMON) study was set up to investigate whether a trial-specific, risk-adapted, reduced on-site monitoring strategy as proposed in Brosteanu et al.
+
+7. The TMF e.V. – Technology, Methods, and Infrastructure for Networked Medical Research – developed and maintained the ADAMON homepage (www.adamon.de) and organised a concluding international workshop to discuss the results. 
+
+8. With the success of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH),
+
+To date, ICH has not been able to drive globally harmonized
+
+(Similar to NO. 1, but italicized) 
+
+9. According to the CDC, taking even low doses of opioid medication for greater than 3 months increases the risk of addiction 15 times. 
+
+Centers for Disease Control and Prevention. Opioid overdose. October 23, 2017. Available at: https://www.cdc.gov/drugoverdose/. Accessed April 5, 2018.
+
+(Acronym expanded in the references) 
+
+
+11. Emergency medical technicians (EMTs) and paramedics are taught that the truly emergent conditions are myocardial infarction, stroke, sepsis, and major trauma. 
+
+(Note that the acronym uses the lowercase letter s to indicate more than one) 
+
+12. Injuries to the Upper Extremity Due to Falls on Outstretched Hands (FOOSH) 
+
+While complex anatomy of the wrist, hand, and elbow often lead to confusion and misdiagnosis of FOOSH injuries, the high prevalence of these injuries makes it is imperative for urgent care providers to be proficient in diagnosis and management.
+
+(Acronym expansion found in the title of the article and not defined again)
+
+13.
+Distal Radioulnar Joint
+
+DRUJ consists of the articular between the distal radius and the ulna, which is boney in nature, and the triangular fibrocartilage complex (TFCC), which consists of cartilage, ligaments, and other soft tissue stabilizers.
+(Expansion is done at the start of a new paragraph)  
+
+15. The Deming Model of the plan-do-check-act (PDCA) 
+(Similar to NO. 1 but the format of the expanded acronym is different) 
+16. Differences in provider type (physicians; physician assistants [PAs]; nurse practitioners [NPs]), knowledge base, confidence, and practice experiences, along with the lack of company-adopted treatment guidelines are possible contributors.
+The project team consisted of two NPs, two PAs, and three physicians
+(Note the square brackets around the acronyms) 
+17. To determine the effectiveness and benefits, in the mid- and long-term, of therapeutic kinesiotaping, added to a 6-week rehabilitation program in reducing symptoms, functional limitations and underlying deficits related to shoulder control of individuals with rotator cuff tendinopathy (RCTe).
+Subjects: Fifty-two participants (30 men, 22 women; age: 30.1 ± 8.3 years; height: 1.75 ± 0.11 m; body mass: 73.8 ± 13.9 kg) clinically diagnosed with unilateral RCTe.
+(Note that the acronym uses the lowercase letter)
+
+These last two are not acronyms but are uppercase letters connected
+
+18. These channels, the TRPV1 and TPRV4 receptors on sensory neurons, are sensitive to hot and warm temperatures, respectively,24,26–28 an often overlooked value of heat in increased healing of damaged tissue.
+(TRPV1 and TPRV4 are not acronyms but proteins - this is very common in clinical journals where uppercase letters together are not necessarily acronyms) 
+
+ 

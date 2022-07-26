@@ -1,0 +1,4 @@
+"""
+Takes in a file and extracts the text from within. Should be able to take txt
+files, html, and pdf's
+"""

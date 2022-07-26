@@ -1,0 +1,192 @@
+01/19/2022 14:13:43 - INFO - root -   Loading model:
+BertTokenClassifier(bert_model='scibert-scivocab-cased', epochs=10,
+                    gradient_accumulation_steps=2, ignore_label=['O'],
+                    label_list=['O', 'long', 'short'], learning_rate=0.0001,
+                    max_seq_length=272, train_batch_size=8)
+01/19/2022 14:13:44 - INFO - bert_sklearn.model.pytorch_pretrained.file_utils -   https://s3-us-west-2.amazonaws.com/ai2-s2-research/scibert/pytorch_models/scibert_scivocab_cased.tar not found in cache, downloading to /tmp/tmp0170mq2_
+01/19/2022 14:15:49 - INFO - bert_sklearn.model.pytorch_pretrained.file_utils -   copying /tmp/tmp0170mq2_ to cache at /home/jpereira/.cache/torch/pytorch_pretrained_bert/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead
+01/19/2022 14:15:49 - INFO - bert_sklearn.model.pytorch_pretrained.file_utils -   creating metadata file for /home/jpereira/.cache/torch/pytorch_pretrained_bert/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead
+01/19/2022 14:15:49 - INFO - bert_sklearn.model.pytorch_pretrained.file_utils -   removing temp file /tmp/tmp0170mq2_
+01/19/2022 14:15:49 - INFO - bert_sklearn.model.pytorch_pretrained.tokenization -   extracting archive file /home/jpereira/.cache/torch/pytorch_pretrained_bert/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead to temp dir /tmp/tmpk2z32sgd
+01/19/2022 14:15:54 - INFO - bert_sklearn.model.pytorch_pretrained.tokenization -   loading vocabulary file https://s3-us-west-2.amazonaws.com/ai2-s2-research/scibert/pytorch_models/scibert_scivocab_cased.tar from cache at /tmp/tmpk2z32sgd/scibert_scivocab_cased/vocab.txt
+01/19/2022 14:15:55 - INFO - bert_sklearn.model.pytorch_pretrained.file_utils -   https://s3-us-west-2.amazonaws.com/ai2-s2-research/scibert/pytorch_models/scibert_scivocab_cased.tar not found in cache, downloading to /tmp/tmptf8zn9g0
+01/19/2022 14:18:15 - INFO - bert_sklearn.model.pytorch_pretrained.file_utils -   copying /tmp/tmptf8zn9g0 to cache at /home/jpereira/.cache/torch/pytorch_pretrained_bert/distributed_-1/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead
+01/19/2022 14:18:16 - INFO - bert_sklearn.model.pytorch_pretrained.file_utils -   creating metadata file for /home/jpereira/.cache/torch/pytorch_pretrained_bert/distributed_-1/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead
+01/19/2022 14:18:16 - INFO - bert_sklearn.model.pytorch_pretrained.file_utils -   removing temp file /tmp/tmptf8zn9g0
+01/19/2022 14:18:16 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   extracting archive file /home/jpereira/.cache/torch/pytorch_pretrained_bert/distributed_-1/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead to temp dir /tmp/tmp1co12bf8
+01/19/2022 14:18:21 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 31116
+}
+
+01/19/2022 14:18:25 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Weights of BertPlusMLP not initialized from pretrained model: ['mlp.weight', 'mlp.bias']
+01/19/2022 14:18:25 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Weights from pretrained model not used in BertPlusMLP: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+01/19/2022 14:18:25 - INFO - root -   train data size: 9279, validation data size: 1030
+01/19/2022 14:18:33 - INFO - root -   Number of train optimization steps is : 11600
+01/19/2022 14:18:37 - CRITICAL - benchmarkers.benchmark_base._proxy_function -   Fatal error in subprocess executing fold TrainData
+Traceback (most recent call last):
+  File "/home/jpereira/git/AcroDisam/acrodisam_app/acrodisam/benchmarkers/benchmark_base.py", line 60, in _proxy_function
+    fold, success = self._evaluate(*args, **kwargs)
+  File "/home/jpereira/git/AcroDisam/acrodisam_app/acrodisam/benchmarkers/in_expansion/benchmark.py", line 124, in _evaluate
+    in_expander = self._create_expander(in_expander_train_data_manager)
+  File "/home/jpereira/git/AcroDisam/acrodisam_app/acrodisam/benchmarkers/in_expansion/benchmark.py", line 66, in _create_expander
+    return self.expander_factory._get_in_expander(train_data_manager)
+  File "/home/jpereira/git/AcroDisam/acrodisam_app/acrodisam/acronym_expander.py", line 415, in _get_in_expander
+    return factory.get_in_expander()
+  File "/home/jpereira/git/AcroDisam/acrodisam_app/acrodisam/AcroExpExtractors/AcroExpExtractor_Scibert_Sklearn.py", line 214, in get_in_expander
+    model_path = self._train_model(data)
+  File "/home/jpereira/git/AcroDisam/acrodisam_app/acrodisam/AcroExpExtractors/AcroExpExtractor_Scibert_Sklearn.py", line 180, in _train_model
+    model.fit(data.tokens, data.labels)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/src/bert-sklearn/bert_sklearn/sklearn.py", line 374, in fit
+    self.model = finetune(self.model, texts_a, texts_b, labels, config)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/src/bert-sklearn/bert_sklearn/finetune.py", line 121, in finetune
+    loss, _ = model(*batch)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/src/bert-sklearn/bert_sklearn/model/model.py", line 95, in forward
+    output_all_encoded_layers=False)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/src/bert-sklearn/bert_sklearn/model/pytorch_pretrained/modeling.py", line 981, in forward
+    head_mask=head_mask)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/src/bert-sklearn/bert_sklearn/model/pytorch_pretrained/modeling.py", line 515, in forward
+    hidden_states = layer_module(hidden_states, attention_mask, head_mask[i])
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/src/bert-sklearn/bert_sklearn/model/pytorch_pretrained/modeling.py", line 496, in forward
+    intermediate_output = self.intermediate(attention_output)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1102, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/src/bert-sklearn/bert_sklearn/model/pytorch_pretrained/modeling.py", line 465, in forward
+    hidden_states = self.intermediate_act_fn(hidden_states)
+  File "/home/jpereira/.local/share/virtualenvs/acrodisam_app-tmPXgc6t/src/bert-sklearn/bert_sklearn/model/pytorch_pretrained/modeling.py", line 184, in gelu
+    return x * 0.5 * (1.0 + torch.erf(x / math.sqrt(2.0)))
+RuntimeError: CUDA out of memory. Tried to allocate 14.00 MiB (GPU 0; 3.95 GiB total capacity; 3.11 GiB already allocated; 10.62 MiB free; 3.26 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+01/19/2022 14:18:37 - CRITICAL - benchmarkers.benchmark_base._proxy_function -   ('CUDA out of memory. Tried to allocate 14.00 MiB (GPU 0; 3.95 GiB total capacity; 3.11 GiB already allocated; 10.62 MiB free; 3.26 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF',)
+01/19/2022 14:18:37 - CRITICAL - benchmarkers.results_reporter_base -   Processed 0 rounds out of 0
+01/19/2022 14:18:37 - CRITICAL - benchmarkers.results_reporter_base -   Total articles: 0, skipped: 0
+01/19/2022 14:18:37 - CRITICAL - benchmarkers.in_expansion.results_reporter -   Acronyms in text -> Precision: nan, Recall: nan, F1-Measure: nan
+01/19/2022 14:18:37 - CRITICAL - benchmarkers.in_expansion.results_reporter -   Expansions in text -> Precision: nan, Recall: nan, F1-Measure: nan
+01/19/2022 14:18:37 - CRITICAL - benchmarkers.in_expansion.results_reporter -   Pairs in text -> Precision: nan, Recall: nan, F1-Measure: nan
+01/19/2022 14:18:37 - CRITICAL - benchmarkers.in_expansion.results_reporter -   Dict Acronyms -> Precision: nan, Recall: nan, F1-Measure: nan
+01/19/2022 14:18:37 - CRITICAL - benchmarkers.in_expansion.results_reporter -   Dict Pairs -> Precision: nan, Recall: nan, F1-Measure: nan
+01/19/2022 14:22:00 - INFO - root -   Loading model:
+BertTokenClassifier(bert_model='scibert-scivocab-cased', epochs=10,
+                    gradient_accumulation_steps=2, ignore_label=['O'],
+                    label_list=['O', 'long', 'short'], learning_rate=0.0001,
+                    max_seq_length=272, train_batch_size=8, use_cuda=False)
+01/19/2022 14:22:01 - INFO - bert_sklearn.model.pytorch_pretrained.tokenization -   extracting archive file /home/jpereira/.cache/torch/pytorch_pretrained_bert/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead to temp dir /tmp/tmpi97r41au
+01/19/2022 14:22:10 - INFO - bert_sklearn.model.pytorch_pretrained.tokenization -   loading vocabulary file https://s3-us-west-2.amazonaws.com/ai2-s2-research/scibert/pytorch_models/scibert_scivocab_cased.tar from cache at /tmp/tmpi97r41au/scibert_scivocab_cased/vocab.txt
+01/19/2022 14:22:11 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   extracting archive file /home/jpereira/.cache/torch/pytorch_pretrained_bert/distributed_-1/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead to temp dir /tmp/tmpolg6ghxn
+01/19/2022 14:22:20 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 31116
+}
+
+01/19/2022 14:22:26 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Weights of BertPlusMLP not initialized from pretrained model: ['mlp.weight', 'mlp.bias']
+01/19/2022 14:22:26 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Weights from pretrained model not used in BertPlusMLP: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+01/19/2022 14:22:26 - INFO - root -   train data size: 9279, validation data size: 1030
+01/19/2022 14:22:26 - INFO - root -   Number of train optimization steps is : 11600
+01/20/2022 20:55:50 - INFO - root -   Loading model:
+BertTokenClassifier(bert_model='scibert-scivocab-cased', epochs=10,
+                    gradient_accumulation_steps=2, ignore_label=['O'],
+                    label_list=['O', 'long', 'short'], learning_rate=0.0001,
+                    max_seq_length=272, train_batch_size=8, use_cuda=False)
+01/20/2022 20:55:51 - INFO - bert_sklearn.model.pytorch_pretrained.tokenization -   extracting archive file /home/jpereira/.cache/torch/pytorch_pretrained_bert/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead to temp dir /tmp/tmpbzte2a2t
+01/20/2022 20:55:59 - INFO - bert_sklearn.model.pytorch_pretrained.tokenization -   loading vocabulary file https://s3-us-west-2.amazonaws.com/ai2-s2-research/scibert/pytorch_models/scibert_scivocab_cased.tar from cache at /tmp/tmpbzte2a2t/scibert_scivocab_cased/vocab.txt
+01/20/2022 20:56:00 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   extracting archive file /home/jpereira/.cache/torch/pytorch_pretrained_bert/distributed_-1/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead to temp dir /tmp/tmp504eyjqb
+01/20/2022 20:56:08 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 31116
+}
+
+01/20/2022 20:56:12 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Weights of BertPlusMLP not initialized from pretrained model: ['mlp.weight', 'mlp.bias']
+01/20/2022 20:56:12 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Weights from pretrained model not used in BertPlusMLP: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+01/20/2022 20:56:12 - INFO - root -   train data size: 30322, validation data size: 3369
+01/20/2022 20:56:12 - INFO - root -   Number of train optimization steps is : 37900
+01/20/2022 21:52:22 - INFO - root -   Loading model:
+BertTokenClassifier(bert_model='scibert-scivocab-cased', epochs=15,
+                    gradient_accumulation_steps=2, ignore_label=['O'],
+                    label_list=['O', 'long', 'short'], learning_rate=0.0001,
+                    max_seq_length=272, train_batch_size=8, use_cuda=False)
+01/20/2022 21:52:23 - INFO - bert_sklearn.model.pytorch_pretrained.tokenization -   extracting archive file /home/jpereira/.cache/torch/pytorch_pretrained_bert/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead to temp dir /tmp/tmprgwy9bz9
+01/20/2022 21:52:28 - INFO - bert_sklearn.model.pytorch_pretrained.tokenization -   loading vocabulary file https://s3-us-west-2.amazonaws.com/ai2-s2-research/scibert/pytorch_models/scibert_scivocab_cased.tar from cache at /tmp/tmprgwy9bz9/scibert_scivocab_cased/vocab.txt
+01/20/2022 21:52:29 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   extracting archive file /home/jpereira/.cache/torch/pytorch_pretrained_bert/distributed_-1/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead to temp dir /tmp/tmpvbrba0il
+01/20/2022 21:52:37 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 31116
+}
+
+01/20/2022 21:52:41 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Weights of BertPlusMLP not initialized from pretrained model: ['mlp.weight', 'mlp.bias']
+01/20/2022 21:52:41 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Weights from pretrained model not used in BertPlusMLP: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+01/20/2022 21:52:41 - INFO - root -   train data size: 30322, validation data size: 3369
+01/20/2022 21:52:42 - INFO - root -   Number of train optimization steps is : 56850
+03/04/2022 17:28:38 - INFO - root -   Loading model:
+BertTokenClassifier(bert_model='scibert-scivocab-cased', epochs=15,
+                    gradient_accumulation_steps=2, ignore_label=['O'],
+                    label_list=['O', 'long', 'short'], learning_rate=0.0001,
+                    max_seq_length=272, train_batch_size=8, use_cuda=False)
+03/04/2022 17:28:39 - INFO - bert_sklearn.model.pytorch_pretrained.tokenization -   extracting archive file /home/jpereira/.cache/torch/pytorch_pretrained_bert/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead to temp dir /tmp/tmp0zqe5c3a
+03/04/2022 17:28:47 - INFO - bert_sklearn.model.pytorch_pretrained.tokenization -   loading vocabulary file https://s3-us-west-2.amazonaws.com/ai2-s2-research/scibert/pytorch_models/scibert_scivocab_cased.tar from cache at /tmp/tmp0zqe5c3a/scibert_scivocab_cased/vocab.txt
+03/04/2022 17:28:48 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   extracting archive file /home/jpereira/.cache/torch/pytorch_pretrained_bert/distributed_-1/97faa982a7622df6a24749b4433defe79d67f33fe93759ff23416ab0b6e139d9.33f020f8acb2b822e2dc2f8c16cb8a2aa2c62ba7ac2d21b555f1543691701ead to temp dir /tmp/tmpa69ju6re
+03/04/2022 17:28:57 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-12,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 31116
+}
+
+03/04/2022 17:29:02 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Weights of BertPlusMLP not initialized from pretrained model: ['mlp.weight', 'mlp.bias']
+03/04/2022 17:29:02 - INFO - bert_sklearn.model.pytorch_pretrained.modeling -   Weights from pretrained model not used in BertPlusMLP: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias', 'cls.predictions.decoder.weight', 'cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+03/04/2022 17:29:02 - INFO - root -   train data size: 30322, validation data size: 3369
+03/04/2022 17:29:02 - INFO - root -   Number of train optimization steps is : 56850

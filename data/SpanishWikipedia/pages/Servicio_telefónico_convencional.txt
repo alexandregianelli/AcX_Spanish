@@ -1,0 +1,12 @@
+Servicio telefónico convencional
+El servicio telefónico convencional (también, ordinario o tradicional, o telefonía básica), conocido en inglés por las iniciales POTS por plain old telephone service, se refiere a la manera en cómo se ofrece el servicio telefónico analógico (o convencional) por medio de cableado de cobre. 
+Se denomina Red Telefónica Conmutada (RTC) o Red Telefónica Básica (RTB).
+La denominación de tradicional o convencional se debe a que es el usado desde la invención del teléfono, pues con la introducción de medios electrónicos y computacionales ha supuesto la creación de la telefonía digital, como por ejemplo: Red Digital Integrada (RDI) y Red Digital de Servicios Integrados (RDSI).
+
+Servicios
+Los servicios POTS consisten en:
+
+Las comunicaciones de voz bidireccional, por ejemplo en Full Duplex, con el intercambio de sonidos con una gama de frecuencia entre 300 y 3400 Hz, que representa el espectro de la voz humana;
+Distintos tipos de tonos de Control, como señal de línea, señal de llamada, señal de ocupado y los tonos de marcado.
+Servicios como información telefónica y asistencia en conferencias de larga distancia.
+Disco o bien teclas de marcado disponibles originalmente en un equipo telefónico analógico estándar.

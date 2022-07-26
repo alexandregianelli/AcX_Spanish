@@ -1,0 +1,33 @@
+﻿{
+    "manifest_version": 2,
+    "name": "AcroDisam",
+    "version": "1.0",
+    "description": "Extension for in-navigation use of the AcroDisam Project",
+    "permissions": ["tabs","activeTab", "storage"],
+
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
+
+    "content_scripts":[
+      {
+        "matches": ["<all_urls>"],
+        "css":["bootstrap.min.css", "highlight.css"],
+        "js":["jquery-3.5.1.min.js", "jquery.mark.js", "bootstrap.min.js",  "highlightAcronyms.js"]
+      }],
+
+    "browser_action": {
+        "default_title": "AcroDisam Expansion",
+        "default_popup": "popup.html",
+        "default_icon": "logo9.png"
+    },
+
+    "icons": {
+        "16" : "logo9.png",
+        "32" : "logo9.png",
+        "48" : "logo9.png",
+        "128" : "logo9.png"
+    }
+
+  }

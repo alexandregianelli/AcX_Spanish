@@ -1,0 +1,69 @@
+Imagen ISO
+Una imagen ISO es un archivo informático donde se almacena una copia o imagen exacta de un sistema de archivos.
+Se rige por el estándar que le da nombre.
+Algunos de los usos más comunes incluyen la distribución y Live CD.
+
+Generalidades
+Como usa el protocolo ISO 9660 o el protocolo Universal Disk Format (UDF), que es compatible con el ISO 9660, a la hora de distribuir por Internet es útil para archivos que necesitan evitar en la transferencia la pérdida de cualquier información o la modificación de la estructura original, necesaria muchas veces para el correcto funcionamiento del programa. Aunque la ISO 9660 lo establece como formato de "sólo lectura" es posible modificarlos con algunos programas.
+Programas específicos de software libre para gestionar y crear archivos ISO son: K3b, InfraRecorder.
+Entre otros programas (tanto comerciales como gratuitos) destacan: CDBurnerXP, Easy CD Creator, PowerISO, ImgBurn, Nero Burning ROM, Roxio Creator, ISO Maker, UltraISO, Daemon Tools (el cual tiene versión gratis, y de pago).
+Como es típico en imágenes de disco, los ficheros de datos que están contenidos en la imagen ISO, también contienen todos los metadatos del sistema de ficheros, incluyendo el código de arranque, estructuras y atributos. Toda esta información está contenida en un único fichero. Estas propiedades lo convierten en una alternativa más atrayente frente a otros medios, para la distribución de software que requiere esta información adicional, pues es fácil de obtener a través de Internet.
+En vez de leer directamente del lector de disco óptico, las computadoras, dispositivos electrónicos y emuladores de consolas, tales como el ePSXe, y muchos otros aparatos que leen CD/DVD son capaces de leer y procesar ficheros ISO/BIN, y otros formatos similares. Se obtiene un rendimiento muy superior de lectura con el fichero ISO, pues no hay tiempos de espera para que el CD/DVD/UMD/BD recorra la superficie del disco ni necesita esperar a que se alcance la velocidad de rotación y frenada del disco, ni necesita lógicamente, esperar a la introducción o expulsión del disco óptico ni la velocidad de Entrada/Salida en el disco duro, siendo muchas veces superior a los lectores de discos ópticos.
+La mayoría de los programas de grabación de CD/DVD consiguen reconocer y usar las imágenes de CD, posibilitando la copia de datos multimedia existentes o creando nuevas unidades a partir de ficheros existentes de archivos de software libre u otros.
+Por ahora son raras las imágenes ISO de BD (Blu-ray Disc) y solamente unos pocos programas soportan las imágenes ISO de BD.
+La mayoría de los sistemas operativos, incluyendo Mac OS, Mac OS X, BSD, GNU/Linux, y Windows con "Microsoft Virtual CD-ROM panel"[1]​ permiten que esas imágenes sean montajes como si fuesen discos físicos, convirtiendo el formato de imagen ISO en herramienta útil como formato de almacenamiento universal.
+Las imágenes ISO suelen ser grabadas en un disco óptico, CD o DVD, completamente en blanco; también pueden ser emuladas por una unidad virtual, para esto hay que usar un programa como DAEMON Tools, que cree la unidad virtual donde se va a montar la imagen; o son usadas desde un soporte USB si se copian adecuadamente o desde una tarjeta de memoria extraíble que es lo más habitual, por ejemplo, en los archivos ejecutados en teléfonos móviles y videoconsolas.
+
+Formatos de imágenes ISO
+Hay muchos formatos de imágenes ISO diferentes. Una imagen de disco óptico, por ejemplo, es un tipo de Imagen ISO de un disco óptico como son: CD, DVD, UMD, BD, etcétera. Una imagen de disco que contiene toda la información de un disco óptico y que comprende tanto la información real que necesitamos, como los datos sobre la estructura que esta información sigue en el dispositivo. 
+Los formatos de imágenes ISO más comunes son:
+
+La extensión .ISO (como archivo.iso): es un solo archivo de todos los datos. Es el más habitual y el predeterminado.
+Las extensiones .CUE y .BIN (como archivo.bin y archivo.cue): desarrollado por la empresa CDRWIN, codifica entre 2.048 o 2.324 bytes por sector. El archivo .BIN guarda todos los datos, mientras que el .CUE describe los datos almacenados. A este último también se le conoce como cue sheet.
+
+Otros formatos similares
+NRG: es el formato del programa Nero Burning Rom.
+CIF: es el formato del programa Adaptec Easy CD Creator.
+CCD: es el formato del programa Clone CD
+BWI: es el formato del programa BlindWrite.
+MDF: es el formato del programa Alcohol 120%.
+CSO: es el formato del programa Daxter Creator. También conocido como Imagen CISO o Compressed ISO.
+UIF: es el formato del programa MagicISO. Es el acrónimo de Universal Image File.
+ISZ: es el formato del programa UltraISO (ISo Zipped).
+DAA: es el formato del programa PowerISO.
+P2I: es el formato del programa Power2Go.
+IMG: es el formato del programa ImgBurn.
+
+Historia de los archivos de imágenes ISO
+En un principio un archivo de imagen ISO era un archivo con el contenido de un juego, programa o película, que se creaba preparado para ser grabado en un CD de forma que estaba listo para ser utilizado en la grabación.
+Esto quiere decir que para poder instalar el juego o programa había que grabar estas imágenes en disco óptico, habitualmente CD o DVD, con el programa adecuado para cada tipo de imagen.
+Las extensiones de las imágenes más habitualmente utilizadas son las siguientes: .BIN, .ISO y .CCD. Estas últimas son del programa CloneCD. Las dos primeras se pueden grabar con Nero Burning Rom. Pero también existen imágenes como .mdf y .mfs que se graban con un programa especializado en grabar imágenes, llamado Alcohol 120%. 
+Aunque el formato fue creado con otros objetivos, como por ejemplo, formato para la compresión de datos, su mayor relevancia se debe a su impacto en la distribución ilegal de software; en el abaratamiento del software comercial, y la distribución de software libre. 
+Debido a que se pueden sacar copias fieles de CD/DVD de software, como por ejemplo, las copias ilegales de sistemas operativos. Ha afectado seriamente a las empresas desarrolladoras de software y de derechos de autor, motivando una mayor diversificación del mercado y aumentando el I + D. Un claro ejemplo sería Microsoft Corporation, del cual sus sistemas operativos de la familia Windows cuyas versiones han sido copiadas mediante este y otros formatos, y redistribuidas mediante alojamiento en sitios web y por medio de redes P2P, Peer to Peer. Saca cada cierto tiempo nuevos sistemas operativos.
+En su uso en la realización de backups es la forma más rápida y común para efectuar copia de películas, álbumes musicales, y todo tipo de material digital que requiera licencia.
+Se usa un gestor de descarga para evitar posibles problemas a la hora de obtener el archivo imagen de Internet.
+Se suele verificar si la descarga ha sido correcta con sistemas como el checksum y una vez descargado, lo más normal es usar un programa de grabación como isobuster, para crear el CD o DVD pertinente. A grandes rasgos, la comprobación consiste en verificar que la suma MD5 del fichero original coincide con la suma MD5 del fichero descargado. Aunque son raros, a veces se producen leves errores en la transmisión que podrían producir que la imagen no fuera válida. 
+En la videoconsola PlayStation Portable, grupos de programadores aficionados desarrollaron lanzadores que permiten ejecutar la imagen ISO y CSO de un juego desde la memoria flash de la consola, cargándolo desde el Memory Stick, sin necesidad de un disco óptico físico UMD. Estas imágenes ISO rondan unos tamaños desde los 5 MB hasta los 1,6 GB, siendo lo habitual entre 200 y 700 MB. Frente a varias tentativas de la empresa Sony para evitar la copia ilegal de sus ficheros de películas y videojuegos comerciales, representadas en nuevos y nuevos cambios de firmwares oficiales, Dark Alex, un programador independiente español, consiguió recuperar la compatibilidad del software no oficial y lo difundió por Internet.
+
+Grabar archivos de imágenes ISO
+Para utilizar un archivo ISO, normalmente se monta la imagen en alguna unidad de CD/DVD virtual, o en su defecto se graba en un CD o DVD físico, aunque si lo que se quiere es evitarse complicaciones y ahorrar tiempo, basta con descomprimirlo con el programa WinRar o 7zip el cual se puede descargar de forma gratuita en la web de su autor, los cuales son capaces de descomprimir los archivos ISO sin problema, aunque si no se cuenta con dicho programa, se pueden seguir los siguientes pasos.
+Para utilizar estos archivos y conseguir instalarlos o probarlos se necesita un disco CD virgen estándar de 700 MB o un DVD de 4,7 GB, una grabadora de CD/DVD instalada y funcionando en la computadora. Esto explica cómo se puede hacer si se usa cualquiera de los siguientes sistemas operativos: Windows 98 o superior, Mac OS X y Ubuntu.
+Si no ha usado BitTorrent o el archivo Torrent para descargar el fichero ISO o la imagen, es recomendable verificar que la descarga se ha realizado correctamente para evitar posibles errores. En GNU/Linux es frecuente contar con un comprobador md5 ya instalado (comando md5sum) o fácilmente instalable. Para Windows, se puede utilizar el programa de línea de comando md5sum para DOS que ha sido portado a Windows con el permiso de la Fundación GNU. Si se necesita algo más visual, es posible descargar md5summer. Para verificar la ISO descargada deberá conocer previamente su valor MD5sum, para conocer el MD5sum que debería de tener la distribución, por ejemplo, de Ubuntu descargada se busca en UbuntuHashes el correspondiente nombre de la ISO. Una vez lo tenga abre una consola y ejecuta: 
+
+$ md5sum nombre_de_la_imagen.iso
+
+Esto devolverá un número hexadecimal de 32 dígitos que, si no se produjeron errores durante la descarga, deberá coincidir con el MD5sum del archivo original, que para el caso de una de las distribuciones ISO del sistema operativo Ubuntu será el obtenido antes en UbuntuHashes.
+Una vez verificada la integridad del fichero descargado, si no se puede ejecutar directamente desde una tarjeta de memoria o desde un dispositivo USB, hay que grabarlo. El proceso de grabación consiste en transferir el fichero que se ha descargado a un CD o DVD de una manera especial, dependiendo de la versión que se haya bajado. No hay que copiarlo directamente como fichero, como se crean los llamados CD/DVD de datos, sino que tendrá que buscar la opción "grabar imagen" o similar en el software de grabación del que disponga.
+
+Referencias
+Véase también
+Anexo:Software de creación de imágenes de disco
+Disco óptico
+Disco virtual
+Imagen de disco
+Imagen de disco óptico
+Imagen ROM
+Mini imagen
+Mtools
+Punto de restauración
+Software de grabación de discos ópticos

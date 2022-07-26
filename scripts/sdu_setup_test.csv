@@ -1,0 +1,2 @@
+cossim	["doc2vec", [50, "CBOW", 200, 5]]
+svm	["l2", 1, 0, "doc2vec", [50, "CBOW", 200, 5]]
